@@ -1,10 +1,10 @@
 export default {
   nicknames: ["qill"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "maleemmm",
+    afternoon: "soreeeee",
+    day: "siangggggggg",
+    morning: "pagiiiii",
+    night: "udah malemmm tidurr"
   }
 };
