@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Apakabar qill ? sehatt ? ^2500', 'gimana puasanyaa? lancarr ?  ^2500', 'semangat yaa belajarnyaa... :< ^2500', 'have a goodday, daaa... :D' ]"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Apakabar qill ? sehatt ? ^2500', 'gimana puasanyaa? lancarr ?  ^2500', 'semangat yaa belajarnyaa... :< ^2500', 'have a goodday qill, daaa...' ]"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
